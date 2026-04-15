@@ -1,0 +1,12 @@
+{
+    "best_params": {
+        "kernel_size": 6,
+        "num_filters": 126,
+        "hidden_dim": 42,
+        "k": 2,
+        "lr": 0.0012355008600313305,
+        "dropout_rate": 0.11973771342068976
+    },
+    "best_epoch": 23,
+    "best_score": 0.569046139717102
+}

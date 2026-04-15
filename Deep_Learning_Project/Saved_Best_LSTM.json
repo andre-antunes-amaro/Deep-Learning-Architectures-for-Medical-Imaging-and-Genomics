@@ -1,0 +1,10 @@
+{
+    "best_params": {
+        "hidden_dim": 83,
+        "num_layers": 2,
+        "dropout_rate": 0.28011229689650013,
+        "lr": 0.0013454454421147283
+    },
+    "best_epoch": 21,
+    "best_score": 0.6700993180274963
+}

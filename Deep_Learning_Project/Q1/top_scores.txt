@@ -1,0 +1,23 @@
+1.1
+
+Logit
+
+Best Model Val Acc: 0.9428
+Best Model Test Accuracy: 0.9298450745396083
+
+Softmax
+
+Best Model Val Acc: 0.9398
+Best Model Test Accuracy: 0.9315989476761181
+
+1.2
+
+Logit
+
+Best Model Val Acc: 0.9527
+Best Model Test Accuracy: 0.9467991815258696
+
+Softmax
+
+Best Model Val Acc: 0.9550
+Best Model Test Accuracy: 0.9473838059047063

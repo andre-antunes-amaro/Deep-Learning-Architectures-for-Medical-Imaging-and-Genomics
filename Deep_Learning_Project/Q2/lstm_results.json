@@ -1,0 +1,11 @@
+{
+    "model": "CNN",
+    "best_params": {
+        "optimizer": "Adam",
+        "lr": 0.001,
+        "hidden_size": 32,
+        "num_layers": 1,
+        "best_epoch": 25
+    },
+    "score": 0.6100133061408997
+}
